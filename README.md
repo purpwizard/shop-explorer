@@ -31,4 +31,4 @@ Small React + TypeScript app to browse products from the Platzi Fake Store (http
 2. Install:
 ```bash
 npm install
-# shop-explorer
+npm run dev
